@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ZXI" size="12.000000 5.538462" />
+    <ImageTarget name="back-central" size="12.000000 5.538462" />
+    <ImageTarget name="unknown" size="12.000000 5.538462" />
+    <ImageTarget name="tyre" size="21.000000 21.000000" />
+    <ImageTarget name="Engine" size="12.000000 5.538462" />
+    <ImageTarget name="FrontBumper1" size="23.000000 17.250000" />
+    <ImageTarget name="Water" size="12.000000 26.000000" />
+    <ImageTarget name="BackHeadlight" size="12.000000 21.333334" />
+    <ImageTarget name="BrakeOilt" size="13.000000 28.166666" />
+    <ImageTarget name="batteryyy" size="15.000000 26.666666" />
+    <ImageTarget name="Text" size="21.000000 37.333332" />
+    <ImageTarget name="Liquid" size="10.000000 7.107309" />
+    <ImageTarget name="Battery" size="10.000000 14.250000" />
+  </Tracking>
+</QCARConfig>
